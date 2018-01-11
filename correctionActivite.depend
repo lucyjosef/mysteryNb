@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488402184 source:c:\users\lucy\documents\intro c\correctionactivite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
